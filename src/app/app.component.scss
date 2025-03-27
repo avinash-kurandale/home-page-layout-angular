@@ -1,0 +1,9 @@
+.content-wrapper{
+    display: flex;
+}
+app-sidebar{
+    flex: 0 0 20%;
+}
+app-main{
+    flex: 1;
+}
